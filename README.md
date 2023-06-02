@@ -1,8 +1,7 @@
-Bağlı Liste Undo Redo
+Linked List Undo Redo
 
-Kullanıcıdan alınan girdileri bağlantılı liste veri yapısında saklayacak ve kullanıcın undo ve
-redo işlemlerini yapmasına olanak sağlayacak program
+A program that will store user inputs in a linked list data structure and allow the user to perform undo and redo operations.
 
-undo : kullanıcının girdiği son bilgiyi geri alır.
+undo : Retrieves the last information the user entered.
 
-redo : yapılan son undo işlemini geri getirir.
+redo : Restores the last undo operation.
